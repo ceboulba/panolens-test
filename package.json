@@ -1,0 +1,10 @@
+{
+  "name": "js-rjxtah",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "panolens": "0.11.0",
+    "panolens.js": "^1.0.1",
+    "three": "0.114.0"
+  }
+}
