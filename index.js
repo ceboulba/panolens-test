@@ -1,5 +1,5 @@
-import * as PANOLENS from 'panolens'
-import * as THREE from 'three'
+import * as PANOLENS from './panolens'
+import * as THREE from './three'
 
 
 import './style.css';
