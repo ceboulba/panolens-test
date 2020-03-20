@@ -1,7 +1,5 @@
 import * as THREE from './three.min.js'
 import * as PANOLENS from './panolens.min.js'
-
-
 import './style.css';
 
 
