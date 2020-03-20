@@ -1,5 +1,5 @@
 import 'panolens'
-import * as THREE from './three'
+import 'three'
 
 
 import './style.css';
