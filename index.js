@@ -1,6 +1,3 @@
-import './three.min.js'
-import './panolens.min.js'
-
 
 import './style.css';
 
