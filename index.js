@@ -1,4 +1,4 @@
-import * as PANOLENS from './panolens'
+import 'panolens'
 import * as THREE from './three'
 
 
