@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "panolens.js": "^1.0.1",
+    "panolens": "^0.11.0",
     "three": "0.114.0"
   }
 }
